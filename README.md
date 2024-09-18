@@ -1,6 +1,4 @@
-Here's the updated Python script with the addition of a menu that allows you to choose between different scanning tools like `naabu`, `nmap`, and `scapy`. It also adds user prompts to select the target and the type of scan to perform.
 
-### Updated Python Script
 
 ```python
 import subprocess
