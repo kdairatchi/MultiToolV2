@@ -1,7 +1,2 @@
-Python3-full
-pip
-go
-naabu
-colorama
-nmap 
-scapy
+colorama==0.4.6
+scapy==2.4.5
