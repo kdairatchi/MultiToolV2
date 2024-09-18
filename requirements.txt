@@ -1,0 +1,7 @@
+Python3-full
+pip
+go
+naabu
+colorama
+nmap 
+scapy
